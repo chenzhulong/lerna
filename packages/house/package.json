@@ -1,0 +1,11 @@
+{
+  "name": "house",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.19",
+    "vue": "^2.6.11"
+  }
+}
